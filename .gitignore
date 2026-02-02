@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+venv/
+env/
+.conda/
+
+# Secrets
+.env
+
+# Caches / data
+.cache/
+data/
+*.sqlite
+*.db
+
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
